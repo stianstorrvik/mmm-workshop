@@ -35,4 +35,4 @@ modules: [
 - Legg til kommandoer i commands.js som skal broadcaste notification til de andre modulene via MagicMirrors notification system. Definer hva modulene skal gjøre i mottakende modul.
 - Kommandoer defineres ved 'tekst' og kan også inneholde variabler som 'tekst *variabel' for å ta vare på speech-to-text stringen som sendes inn, f.eks som argumenter.
 - Se hide/show modules kommandoene for å se et praktisk eksempel der nøkkelord og variabel sendes til modulen MODULE_TOGGLE, som har ansvar for å skjule/vise moduler.
-- Moduler gjenkjennes ved hjelp av default parametere i mmmVoice.js for å knytte modulnavn opp mot nøkkelord som gjenkjennes av annyang.
+- Moduler gjenkjennes ved hjelp av forhåndsdefinerte parametere i mmmVoice.js for å knytte modulnavn opp mot nøkkelord som gjenkjennes av annyang.

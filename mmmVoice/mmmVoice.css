@@ -1,0 +1,27 @@
+.mmmVoice {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.overflow__hidden {
+    overflow: hidden;
+}
+
+.float__right {
+    float: right;
+}
+
+.float__left {
+    float: left;
+}
+
+.mmmVoice .content ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.mmmVoice .content ul > li {
+     text-align: left;
+     line-height: 1;
+}

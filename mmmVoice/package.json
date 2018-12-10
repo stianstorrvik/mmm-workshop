@@ -1,0 +1,20 @@
+{
+  "name": "mmmvoice",
+  "version": "1.0.0",
+  "description": "Voice recognition through annyang",
+  "main": "mmmVoice.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mmm",
+    "magic mirror",
+    "voice recognition",
+    "mmm voice"
+  ],
+  "author": "Stian Storrvik",
+  "license": "ISC",
+  "dependencies": {
+    "annyang": "^2.6.1"
+  }
+}

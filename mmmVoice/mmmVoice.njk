@@ -1,0 +1,11 @@
+{% if showDebug %}
+<div class="mmmVoice overflow__hidden">
+    <div class="content float__left">
+    <ul>
+        {% if registeredCommand %}
+            <li class="suppress">Received command: {{ registeredCommand }}</li>
+        {% endif %}
+    </ul>
+    </div>
+</div>
+{% endif %}
